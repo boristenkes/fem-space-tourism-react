@@ -13,7 +13,7 @@ import technologyBgTablet from './technology/bg-tablet.jpg';
 
 import anoushehAnsari from './crew/anousheh-ansari.webp';
 import douglasHurley from './crew/douglas-hurley.webp';
-import markShuttleworth from './crew/mark-shuttleworth';
+import markShuttleworth from './crew/mark-shuttleworth.webp';
 import victorGlover from './crew/victor-glover.webp';
 
 import europa from './destination/europa.webp';
@@ -23,10 +23,10 @@ import titan from './destination/titan.webp';
 
 import vehicleLandscape from './technology/launch-vehicle-landscape.jpg';
 import vehiclePortrait from './technology/launch-vehicle-portrait.jpg';
-import capsuleLandscape from './technology/launch-capsule-landscape.jpg';
-import capsulePortrait from './technology/launch-capsule-portrait.jpg';
-import spaceportLandscape from './technology/launch-spaceport-landscape.jpg';
-import spaceportPortrait from './technology/launch-spaceport-portrait.jpg';
+import capsuleLandscape from './technology/space-capsule-landscape.jpg';
+import capsulePortrait from './technology/space-capsule-portrait.jpg';
+import spaceportLandscape from './technology/spaceport-landscape.jpg';
+import spaceportPortrait from './technology/spaceport-portrait.jpg';
 
 export { ReactComponent as Logo } from './shared/logo.svg';
 
